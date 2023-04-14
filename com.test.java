@@ -35,7 +35,7 @@ class Encrypt {
     public static void main(String args[]) throws IOException
     {
         System.out.println("Debugging, in main method");
-        String encoded = "eJxLzs/VS8xLKcrPTNErS81LycxLBwBJFQdo";
+        String encoded = "INSERT ENCRYPTED STRING HERE";
         String decoded = decode(encoded);
         System.out.println(decoded);
     }
